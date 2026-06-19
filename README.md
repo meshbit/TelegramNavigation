@@ -100,6 +100,12 @@ hugo --baseURL https://meshbit.github.io/TelegramNavigation/ --minify
 2. 在 `data/webstack.yml` 中添加条目
 3. 提交 PR 到 `source` 分支
 
+## 相关项目
+
+| 项目 | 说明 |
+|------|------|
+| [tgnav](https://github.com/meshbit/tgnav) | Telegram 导航站（另一个版本） |
+
 ## License
 
 MIT © [meshbit](https://github.com/meshbit)
