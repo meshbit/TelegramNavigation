@@ -1,0 +1,27 @@
+baseURL               = "https://meshbit.github.io/TelegramNavigation/"
+languageCode          = "zh-CN"
+title                 = "Telegram 导航"
+theme                 = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower    = true
+hasCJKLanguage        = true
+publishDir            = "public"
+
+[params]
+    author        = "meshbit"
+    description   = "精心整理的 Telegram 群组、频道、机器人合集"
+    about         = "https://github.com/meshbit/TelegramNavigation"
+    repository    = "https://github.com/meshbit/TelegramNavigation"
+    enablePreLoad = false
+    expandSidebar = false
+    nightMode     = false
+    yiyan         = true
+    fancybox      = true
+    [params.images]
+        logoExpandLight    = "assets/images/logo.svg"
+        logoExpandDark     = "assets/images/logo.svg"
+        logoCollapseLight  = "assets/images/logo.svg"
+        logoCollapseDark   = "assets/images/logo.svg"
+
+[params.footer]
+    copyright = '数据整理自 <a href="https://github.com/AZeC4/TelegramGroup">AZeC4/TelegramGroup</a> · 内容采集自网络，仅供学习参考 | &copy; 2026 <a href="https://github.com/meshbit/TelegramNavigation">Telegram 导航</a>'
